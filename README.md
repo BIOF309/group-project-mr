@@ -1,5 +1,9 @@
-final-project-template
+Genomic Variant Identifier
 ==============================
+
+BIOF309: Final Project 
+Mukundhan Ramaswami 
+
 
 A template I recommend for final projects. Feel free to modify as needed!
 Based on Cookiecutter Data Science:
